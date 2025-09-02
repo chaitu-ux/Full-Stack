@@ -1,0 +1,201 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-container{
+    height: 100vh;
+    width: 100%;
+   
+}
+.basic-information{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    padding-top: 10px;
+
+}
+#profile{
+    height: 50px;
+    width: 50px;
+    background-image: url(../assets/bob.jpeg);
+    background-size: cover;
+    padding-bottom: 1px;
+}
+#name-of-candidate{
+    padding-top: 3px;
+    padding-left: 20px;
+}
+#name-of-candidate1{
+    padding-top: 3px;
+    padding-left: 20px;
+}
+#head-under-row{
+    padding-left: 180px;
+    height: 3px;
+}
+#announcements{
+    padding-left: 570px;
+}
+.head{
+    height: 5vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 0px;
+}
+#ums{
+    height:10vh;
+    width: 30%;
+    border: 10x solid green;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+#home{
+    height:10vh;
+    width: 10%;
+    padding-top: 20px;
+}
+#timetable{
+    height:10vh;
+    width: 10%;
+    border: 10x solid black;
+    padding-top: 20px;
+}
+#Examinations{
+    height:10vh;
+    width: 10%;
+    border: 10x solid black;
+    padding-top: 20px;
+}
+#password{
+    height:10vh;
+    width: 10%;
+    border: 10x solid black;
+    padding-top: 20px;
+}
+#logout{
+    height:10vh;
+    width: 10%;
+    border: 10x solid black;
+    padding-top: 20px;
+}
+#bright-dark{
+    height:10vh;
+    width: 5%;
+    border: 10x solid black;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+.sub-container1{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+#sub-containera{
+    height: 90vh;
+    width: 25%;
+    background-color:rgb(209, 206, 203);
+   
+     
+}
+#sub-containerb{
+    height: 90vh;
+    width: 50%;
+    background-color:white;
+}
+.sub-containerB{
+    
+}
+#attendince{
+    height: 50vh;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#Engineering-Graphics{
+    height: 40vh;
+    width: 15%;
+    background-color: blue;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+#Mathmatical-Engineering{
+    height: 40vh;
+    width: 15%;
+    background-color: green;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+#Computer-Arcthitecture{
+    height: 40vh;
+    width: 15%;
+    background-color: orange;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+#databacs-Management{
+    height: 40vh;
+    width: 15%;
+    background-color:red;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+#Network-Security{
+    height: 40vh;
+    width: 15%;
+    background-color:pink;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+#icon{
+
+}
+
+
+
+
+#todays-timetable{
+    height: 31vh;
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+   
+}
+#sub-containerc{
+    height: 49vh;
+    width: 25%;
+    background-color: brown;
+    border-radius: 15px;
+}
+#inner1{
+
+}

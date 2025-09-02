@@ -1,0 +1,257 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#main{ border: 2px solid black;
+    height: auto;
+    width: 99.99%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 30px 20px 20px 20px;
+    /* background-image: url(../assets/Roronoa\ Zoro.jpg); */
+    background-color:black;
+
+}
+#one{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#one:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+}
+#two{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size:  cover;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#two:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#three{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image:url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#three:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#four{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image:url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#four:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#five{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#five:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#six{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+}
+#six:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#seven{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#seven:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#eight{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#eight:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#nine{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#nine:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#ten{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#ten:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#eleven{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#eleven:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#twelve{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#twelve:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#thirteen{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#thirteen:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    
+
+}
+#fourteen{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#fourteen:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    box-shadow: rebeccapurple;
+    
+
+}
+#fifteen{ border: 1px solid black;
+    height: 250px ;
+    width: 200px;
+    background-image: url(../assets/Roronoa\ Zoro.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    margin: 10px 10px 10px 10px;
+
+}
+#fifteen:hover{ border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    opacity: 1;
+    margin: 10px 10px 10px 10px;
+    box-shadow: orangered;
+
+}

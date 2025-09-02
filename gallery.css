@@ -1,0 +1,116 @@
+.body{
+    margin: 0%;
+    border: 0%;
+}
+.gallery{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    height: auto;
+    width: 99.99%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#first{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+    
+}
+#second{height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#third{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#fourth{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#five{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#five{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#six{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#seven{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#eight{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#nine{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px;
+}
+#ten{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#eleven{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#twelve{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#thirteen{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#fourteen{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+#fifteen{
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}

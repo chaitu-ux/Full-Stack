@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.solar-system {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-size: cover;
+    background-image: url(../assets/Lost\ in\ space_\ Nasa\ reveals\ ‘loneliest\ galaxy’\ floating\ in\ a\ dark\ void.jpeg);
+}
+
+
+.orbit {
+    position: absolute;    border-radius: 50%;
+    animation: rotate linear infinite;
+}
+
+.planet {
+    position: absolute;
+    border-radius: 50%;
+}
+
+.sun {
+    width: 100px;
+    height: 100px;
+    background-image: url(../assets/sun.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    box-shadow: 0 0 50px rgba(255, 223, 0, 0.8);
+}
+
+.planet.mercury {
+    width: 40px;
+    height: 40px;
+    background-image: url(../assets/mercury.jpg);
+    background-size: cover;
+    background-position: center;
+    top: -10px;
+    left: 120px;
+}
+
+.orbit.mercury {
+    height: 200px;
+    width: 250px;
+    animation-duration: 5s;
+}
+
+.planet.venus {
+    width: 30px;
+    height: 30px;
+    background-image: url(../assets/venus.jpg);
+    background-size: cover;
+    background-position: center;
+    top: -15px;
+    left: 150px;
+}
+
+.orbit.venus {
+    height: 300px;
+    width: 350px;
+    animation-duration: 5s;
+
+}
+
+.planet.earth {
+    width: 40px;
+    height: 40px;
+    background-image: url(../assets/earth.jpg);
+    background-size: cover;
+    background-position: center;
+    top: -20px;
+    left: 200px;
+}
+
+.orbit.earth {
+    height: 400px;
+    width: 450px;
+    animation-duration: 3s;
+}
+
+.planet.mars {
+    width: 35px;
+    height: 35px;
+    background-image: url(../assets/mars.jpeg);
+    background-size: cover;
+    background-position: center;
+    top: -12px;
+    left: 250px;
+}
+
+.orbit.mars {
+    height: 500px;
+    width: 550px;
+    animation-duration: 6s;
+}
+
+.planet.jupiter {
+    width: 60px;
+    height: 60px;
+    background-image: url(../assets/jupiter.jpeg);
+    background-size: cover;
+    background-position: center;
+    top: -30px;
+    left: 300px;
+}
+
+.orbit.jupiter {
+    height: 600px;
+    width: 650px;
+    animation-duration: 7s;
+}
+
+.planet.saturn {
+    width: 50px;
+    height: 50px;
+    background-image: url(../assets/moon.jpg);
+    background-size: cover;
+    background-position: center;
+    top: -25px;
+    left: 350px;
+}
+
+.orbit.saturn {
+    height: 700px;
+    width: 750px;
+    animation-duration: 11s;
+}
+
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

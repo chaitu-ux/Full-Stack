@@ -1,0 +1,172 @@
+.main_container{
+    height: 1000px;
+    width: 100%;
+}
+.suba{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.parta{
+    height: 500px;
+    width: 50%;
+}
+.mod1{
+    height: 125px;
+    width: 100%;
+    display: flex;
+}
+.gray{
+    height: 125px;
+    width: 100%;
+    border: 2px solid gray;
+    background-color: gray;
+}
+.orange{
+    height: 125px;
+    width: 100%;
+    border: 2px solid orange;
+    background-color: orange;
+}
+.mod2{
+    height: 125px;
+    width: 100%;
+    border: 2px solid  rgb(177, 31, 99);
+    background-color: rgb(177, 31, 99);
+}
+.mod3{
+    height: 125px;
+    width: 100%;
+    border: 2px solid rgb(23, 151, 109);
+    background-color:  rgb(23, 151, 109);
+}
+.mod4{
+    height: 125px;
+    width: 101%;
+    border: 2px solid rgba(230, 158, 170, 0.781);
+    background-color: rgba(230, 158, 170, 0.781);
+}
+.partb{
+    height: 500px;
+    width: 50%;
+}
+.mod5{
+    height: 125px;
+    width: 100%;
+    border: 2px solid  rgb(99, 219, 99);
+    background-color: rgb(99, 219, 99);
+}
+.mod6{
+    height: 122px;
+    width: 100%;
+    border: 2px solid green;
+    background-color: green;
+}
+.partc{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.mod7{
+    height: 253px;
+    width: 100%;
+    border: 2px solid skyblue;
+    background-color: skyblue;   
+}
+.mod8{
+    height: 253px;
+    width: 100%;
+    border: 2px solid red;
+    background-color: red;
+}
+
+
+.subb{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.partd{
+    height: 500px;
+    width: 50%;
+}
+.parte{
+    height: 250px;
+    width: 50%;
+    display: flex;
+}
+.mod9{
+    height: 250px;
+    width: 50%;
+    border: 2px solid orange;
+    background-color: orange;
+}
+.mod10{
+    height: 253px;
+    width: 50%;
+    border: 2px solid red;
+    background-color: red;
+}
+.partf{
+    height: 250px;
+    width: 25%;
+    display: flex;
+}
+.mod11{
+    height:250px;
+    width: 50%;
+    border:2px solid gray;
+    background-color: gray;
+}
+.mod12{
+    height:250px;
+    width: 25%;
+    border:2px solid black;
+    background-color: black;
+}
+.mod13{
+    height:250px;
+    width: 25%;
+    border:2px solid gray;
+    background-color: gray;
+}
+.mod14{
+    height:250px;
+    width: 25%;
+    border:2px solid black;
+    background-color: black;
+}
+.partg{
+    height: 500px;
+    width: 50%;
+    display: flex;
+}
+.parth{
+    height: 250px;
+    width: 50%;
+    display: flex;
+}
+.mod15{
+    height:250px;
+    width: 50%;
+    border: 2px solid orange;
+    background-color: orange;
+}
+.mod16{
+    height:250px;
+    width: 50%;
+    border: 2px solid black;
+    background-color: black;
+}
+.mod17{
+    height:250px;
+    width: 50%;
+    border: 2px solid green;
+    background-color: green;
+}
+.mod18{
+    height:250px;
+    width: 50%;
+    border: 2px solid brown;
+    background-color: brown;
+}

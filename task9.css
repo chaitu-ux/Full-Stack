@@ -1,0 +1,14 @@
+.main-container{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../assets/space.jpeg);
+    background-size: cover;
+}
+.sun{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    border: 2px solid orangered;
+    background-color: red;
+    margin-top: 200px;
+}

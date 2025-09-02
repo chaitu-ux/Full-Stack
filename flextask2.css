@@ -1,0 +1,137 @@
+.body{
+    height: 100vh;
+    width: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+.head{
+    height: 100px;
+    width: 100%;
+    border: 2px solid #ADD8E6;
+    background-color: #ADD8E6;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.sub{
+    display: flex;
+    flex-direction: row;
+    row-gap: 5px;
+    column-gap: 5px;
+}
+.sub1{
+    display: flex;
+    flex-direction: column;  
+    width: 40%;
+    row-gap: 5px;
+    column-gap: 5px;
+}
+.hero{
+    height:150px;
+    width:99%;
+    color: white;
+    background-color:#c1aad1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #c1aad1;
+}
+.sidebar{
+    height: 200px;
+    width: 99%;
+    color: white;
+    border: 2px solid#94b447;
+    background-color:#94b447;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sub2{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    row-gap: 5px;
+    column-gap: 5px;
+}
+.maincontent{
+    display: flex;
+   height:266px;
+   width: 100%;
+   border: 2px solid yellow;
+   background-color: yellow;
+   align-items: center;
+   color: white;
+   justify-content: center;
+}
+.extracontent{
+    display: flex;
+    height: 84px;
+    width: 100%;
+    border: 2px solid #808080;
+    background-color: #808080;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.sub3{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    row-gap: 5px;
+    column-gap: 5px;
+}
+.relatedimages{
+    height: 50px;
+    width: 99%;
+    display: flex;
+    border: 2px solid green;
+    background-color: green;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    
+}
+.extraimages{
+    height: 53px;
+    width: 50%;
+    display: flex;
+    border: 2px solid pink ;
+    background-color: rgb(199, 108, 123) ; 
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    border: 2px solid  #F2A71B;
+    background-color:  #F2A71B;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

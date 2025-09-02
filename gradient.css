@@ -1,0 +1,18 @@
+.main{
+    height: auto;
+    width: 99.99%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 20px;
+}
+#cards{
+    height: 250px;
+    width: 200px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    row-gap: 4px;
+    background-image: radial-gradient(to top,red,blue,green);
+}

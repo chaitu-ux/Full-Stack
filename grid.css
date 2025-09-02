@@ -1,0 +1,80 @@
+.body{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    align-content: space-evenly;
+    border: 8px solid black;
+    background-color: black;
+}
+.sub-a{
+    height: 700px;
+
+}
+.red{
+    height: 350px;
+    width: 200px;
+    background-color: red;
+}
+.white{
+    height: 350px;
+    width: 200px;
+    background-color: white;
+}
+.sub-b{
+    height: 700px;
+    width: 100%;
+}
+.sub-b1{
+    height:200px;
+    width: 100%;
+    display: flex;
+}
+.skyblue{
+    height: 200px;
+    width: 50%;
+    background-color: skyblue;
+}
+.orange{
+    height: 200px;
+    width: 60%;
+    background-color: orange;
+}
+.sub-c{
+    height:100vh;
+    width: 100%;
+    display: flex;
+}
+.sub-c1{
+    height: 500px;
+    width: 100%;
+}
+.sub-c1a{
+    display: flex;
+    height: 500px;
+    width: 100%;
+}
+.orange1{
+    height: 250px;
+    width: 40%;
+    background-color: orange;
+}
+.white1{
+    height: 250px;
+    width: 60%;
+    background-color: white;
+}
+.sub-c1b{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.red1{
+    height: 250px;
+    width: 60%;
+    background-color: red;
+}
+.skyblue1{
+    height: 250px;
+    width: 40%;
+    background-color: skyblue;
+}

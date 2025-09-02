@@ -1,0 +1,25 @@
+.container{
+border: 2px solid red;
+    height: 400px;
+    width: 450px;
+    transition-property: background-color;
+    /* transition-duration: 2s; */
+   transition: height ease-in-out 3s ;
+   margin-top: 300px;
+   
+   
+}
+.container:hover{
+   
+    width: 850px;
+    background-color: blue
+    /* transform: scale(1.5); */
+}
+
+.sub{
+    border: 2px solid green;
+    background-color: green;
+    height: 400px;
+    width: 200px;
+
+}

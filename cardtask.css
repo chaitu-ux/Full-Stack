@@ -1,0 +1,178 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* background: linear-gradient(black,blue,white);
+    */
+
+   
+}
+#main1{
+    height: 800px;
+    width: auto;
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+#sub1{
+    border: 0px solid blue;
+    /* height: 450px;
+    width: 950px; */
+    background-color: antiquewhite;
+    display: flex; 
+    
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+ 
+}
+#inner1{ border: 0px solid antiquewhite;
+    height: 450px;
+    width: 475px;
+    background-image: url(./_\ copy\ 7.jpeg);
+    background-size: cover;
+
+
+}
+#inner2{text-align:justify;
+    height: 450px;
+    width: 475px;
+
+}
+p{
+    padding: 10px 5px 10px 10px;
+}
+h1{ 
+    font-size: 40px ;
+    margin-left: 40px;
+}
+#learnmore{
+    margin-left: 110px;
+     margin-top: 30px;
+    color: antiquewhite;
+    font-size: 40px;
+    border: 0px solid blue;
+    height: 60px;
+    width: 230px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+ 
+
+}
+#main2{
+    border: 0px solid;
+    height: 820px;
+    width: auto;
+   
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(black,blue,white);
+   
+}
+#inner3{ border: 0px solid aliceblue;
+    height: 450px;
+    width: 950px;
+    display: flex;
+    flex-wrap: wrap;
+   
+    background-color: antiquewhite;
+}
+#vfx{
+    border: 0px solid blue;
+    height: 60px;
+    width: 230px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    font-size: 40px;
+    color: antiquewhite;
+    margin-left: 50px;
+    text-decoration: underline;
+
+
+}
+#animations{
+    border: 0px solid blue;
+    height: 60px;
+    width: 230px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+ font-size: 40px;
+ color: antiquewhite;
+ margin-left: 150px;
+ text-decoration: underline;
+
+}
+#matter{
+    font-size: 25px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+#buttons{
+    display: flex; 
+    justify-content: space-around;
+   
+}
+
+#main3{
+    border: 0px solid;
+    height: 800px;
+    width: auto;
+   position: relative;
+ 
+    background: linear-gradient(rgb(196, 228, 255),rgb(0, 68, 255),white);
+   
+}
+#last1{
+border: 0px solid white;
+height: 350px;
+width: 350px;
+background-image:  url(./medea.jpeg);
+background-size: cover;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+position: absolute;
+    top: 370px;
+    left: 270px;
+
+}
+#last2{
+    border: 0px solid white;
+    height: 350px;
+    width: 350px;
+    background-image: url(./_.jpeg);
+    background-size: cover;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    position: absolute;
+    top: 120px;
+    left:130px;
+
+   
+    
+    }
+    #last3{
+        border: 0px solid  ;
+        background-color: aliceblue;
+        height: 450px;
+        width: 400px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+        position: absolute;
+        top: 180px;
+        left: 600px;
+
+
+    }
